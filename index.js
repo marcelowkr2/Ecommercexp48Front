@@ -8,4 +8,4 @@ import  store  from './app/store';
 const cotainer = document.getElementById("root");
 const root = createRoot(cotainer);
 
-root.render(<Provider store={store}><App /></Provider>);
+root.render(<Provider store={store}><App /></Provider>)
