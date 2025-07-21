@@ -618,7 +618,3 @@
 .actionsMenu button:hover {
   background-color: #f5f5f5;
 }
-
-.actionsMenu button svg {
-  margin-right: 8px;
-}
